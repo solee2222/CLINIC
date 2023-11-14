@@ -5,44 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e74da3ff-04d9-4539-8841-a3e81b4896e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CLINICA/model/YourFirstEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CLINICA/run/.something" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CLINICA/run/CLINICA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/CLINICA-labels_en.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/i18n/CLINICA-messages_en.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/naviox-users.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/naviox.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/application.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/controllers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/annotation-type-default.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/aplicacion.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/application.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/controladores.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/controllers.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/conversores.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/converters.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/default-size.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/editores.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/editors.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/longitud-defecto.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/stereotype-type-default.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/tabs-default-values.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/tipo-anotacion-defecto.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/tipo-estereotipo-defecto.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/validadores.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/validators.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xava/dtds/valores-defecto-tabs.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/xava/style/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/xava-junit.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CLINICA/model/YourFirstEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CLINICA/model/YourFirstEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +18,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2Y8Gw4ri8lrikFkbtptY2aoTFO7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -68,13 +34,24 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Usuario/Desktop/POO/CLINICA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="CLINICA" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.example.CLINICA.run.CLINICA" />
+      <module name="CLINICA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +60,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699900030880</updated>
-      <workItem from="1699900032093" duration="414000" />
+      <workItem from="1699900032093" duration="4798000" />
+      <workItem from="1699911933613" duration="2447000" />
+      <workItem from="1699918839677" duration="2169000" />
     </task>
     <servers />
   </component>

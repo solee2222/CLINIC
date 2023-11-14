@@ -57,12 +57,12 @@
 	-->
 	
 	<!-- Microsoft SQL Server -->
-	<Resource name="jdbc/CLINICADS" auth="Container" type="javax.sql.DataSource"
-	      maxTotal="20" maxIdle="5" maxWaitMillis="10000"
-	      username="Student" password="1234"
-	      driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
-	      url="jdbc:sqlserver://localhost:1433;databaseName=CLINICAdb;user=Student;password=1234;encrypt=true;trustServerCertificate=true;"/>
-
+	<Resource name="jdbc/CLINICA" auth="Container"
+			  type="javax.sql.DataSource"
+			  maxTotal="100" maxIdle="20" maxWaitMillis="10000"
+			  username="user" password="123"
+			  driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+			  url="jdbc:sqlserver://localhost:1433;databaseName=OpenXavaProjectdb;user=user;password=123;encrypt=true;trustServerCertificate=true"/>
 	
 	<!-- Informix
 	<Resource name="jdbc/CLINICADS" auth="Container" type="javax.sql.DataSource"

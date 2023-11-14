@@ -12,7 +12,6 @@ import lombok.*;
 
 /**
  * This is an example of an entity.
- * 
  * Feel free feel to rename, modify or remove at your taste.
  */
 
